@@ -1,8 +1,10 @@
 #### Flappy Holman
 
-Greetings, Starfighter. You have been recruited by the Star League to defend the frontier against Xur and the Ko-Dan armada!
+Greetings, Starfighter. You have been recruited by the Star League to defend the frontier against Xur and the Ko-Dan armada! 
 
-![Flappy Holamn](gfx/flappy-holman-animation.gif)
+**Ready?** [Click here to play](http://leereilly.net/flappy-holman/) :video_game:
+
+[![Flappy Holamn](gfx/flappy-holman-animation.gif)](http://leereilly.net/flappy-holman/)
 
 #### Controls
 
