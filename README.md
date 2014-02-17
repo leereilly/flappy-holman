@@ -18,7 +18,8 @@ This AAA game title brought to you by the following open source :sparkles:magic:
 * https://github.com/RothschildGames/release-cycles** - for pre-existing *forking* soundbytes :sound:
 * https://github.com/increpare/bfxr - for creating custom 8-bitty sounds ♫♪
 * https://github.com/GNOME/gimp - for creating sprites :art:
-* Aaaand you...
+* @jeejkang for the beautiful Octoverse background!
+* Aaaand...
  * https://github.com/uralozden
  * https://github.com/hyspace
  * the letter [S](http://www.sesamestreet.org/cms-static/flappy_bert/)
