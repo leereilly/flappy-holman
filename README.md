@@ -1,6 +1,6 @@
 #### Flappy Holman
 
-Greetings, Starfighter. You have been recruited by the Star League to defend the frontier against Xur and the Ko-Dan armada! 
+Greetings, Starfighter. You have been recruited by the Star League to defend the frontier against Xur and the Ko-Dan armada! Do battle by pushing code and merging commits.
 
 **Ready?** [Click here to play](http://leereilly.net/flappy-holman/) :video_game:
 
@@ -12,7 +12,7 @@ Touch @holman to merge dem commits.
 
 #### Kudos
 
-This AAA game title brought to you by the following open source :sparkles:magic:sparkles: on GitHub:
+This AAA game title brought to you by the following open source :sparkles:magic:sparkles::
 
 * https://github.com/photonstorm - awesome little game engine :video_game:
 * https://github.com/RothschildGames/release-cycles** - for pre-existing *forking* soundbytes :sound:
